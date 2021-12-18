@@ -1,0 +1,13 @@
+・AIの追加
+  巡回、追跡、見失うと戻る
+  AIにつかまるとスタート地点
+  ↪なぜ戻されるのか？
+　↪ゲームに合う見た目
+
+
+・参考URL
+ue4公式
+https://docs.unrealengine.com/4.27/ja/InteractiveExperiences/ArtificialIntelligence/BehaviorTrees/BehaviorTreeQuickStart/
+
+https://www.zugakousaku.com/archives/ue4_study/2184
+https://bintololab.com/ue4-enemy-ai
